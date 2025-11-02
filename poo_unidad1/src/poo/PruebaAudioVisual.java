@@ -21,7 +21,7 @@ public class PruebaAudioVisual {
         //CREACIÓN DE UNA PELÍCULA Y SUS ACTORES
         //Pelìcula
         System.out.println("Pelicula");
-        Pelicula pelicula1 = new Pelicula("Terrible", 170, "Ciencia Ficción", "Cuenca Films");
+        Pelicula pelicula1 = new Pelicula("Terribles", 170, "Ciencia Ficción", "Cuenca Films");
         //Actor
         pelicula1.agregarActor(new Actor("Mateo Vivar", 2005));
         pelicula1.agregarActor(new Actor("Zoe Swin", 2000));
