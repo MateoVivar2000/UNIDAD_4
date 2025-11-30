@@ -23,7 +23,9 @@ UNIDAD_4/
 ├── peliculas.csv           # Base de datos de películas (Archivo plano)
 ├── series.csv              # Base de datos de series (Archivo plano)
 └── README.md               # Documentación técnica del proyecto
-<img width="683" height="733" alt="U4 drawio" src="https://github.com/user-attachments/assets/3cd59a0e-d48a-42ef-8a5a-0ab332f56cb4" />
+
+<img width="683" height="733" alt="U4 drawio" src="https://github.com/user-attachments/assets/0f4034c7-502b-49dc-9d9e-5fcff551a76c" />
+
 
 
 Requisitos Previos de Instalación
