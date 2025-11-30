@@ -1,7 +1,5 @@
-package documental;
+package model;
 import java.util.ArrayList;
-
-import poo.ContenidoAudiovisual;
 
 public class Documental extends ContenidoAudiovisual {
 	//ATRIBUTOS DE LA CLASE DOCUMENTAL

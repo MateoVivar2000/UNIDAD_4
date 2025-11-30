@@ -1,4 +1,4 @@
-package poo;
+package model;
 
 //ATRIBUTOS
 public abstract class ContenidoAudiovisual {

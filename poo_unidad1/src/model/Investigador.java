@@ -1,4 +1,4 @@
-package documental;
+package model;
 
 public class Investigador {
 	//ATRIBUTOS

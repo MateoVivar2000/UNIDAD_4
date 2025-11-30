@@ -1,4 +1,4 @@
-package serieDeTv;
+package model;
 
 public class Temporada {
 	//ATRIBUTOS

@@ -1,10 +1,9 @@
 /**
  * Class Pelicula
  */
-package pelicula;
+package model;
 
 import java.util.ArrayList;
-import poo.ContenidoAudiovisual;
 
 // Subclase Pelicula extendida de ContenidoAudiovisual
 public class Pelicula extends ContenidoAudiovisual {

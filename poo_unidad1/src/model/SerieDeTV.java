@@ -1,7 +1,6 @@
-package serieDeTv;
+package model;
 
 import java.util.ArrayList;
-import poo.ContenidoAudiovisual;
 
 // Subclase SerieDeTV que extiende de ContenidoAudiovisual
 

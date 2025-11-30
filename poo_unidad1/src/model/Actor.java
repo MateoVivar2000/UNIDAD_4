@@ -1,4 +1,4 @@
-package pelicula;
+package model;
 
 public class Actor {
 	
