@@ -1,10 +1,8 @@
 # Sistema de Gestión de Contenidos Audiovisuales
-
 ## Descripción del Proyecto
 Este repositorio contiene el código fuente correspondiente al trabajo final de la Unidad 4: "Programación Limpia y Refactorización" de la asignatura Programación Orientada a Objetos.
 
 El proyecto consiste en la implementación de un sistema de gestión para un catálogo de contenidos audiovisuales (películas y series de televisión). El objetivo principal del desarrollo fue la refactorización de un sistema base para cumplir con estándares de calidad de software, implementando el patrón de arquitectura **MVC (Modelo-Vista-Controlador)**, principios **SOLID**, persistencia de datos y pruebas unitarias.
-
 ## Características Técnicas
 El sistema ha sido diseñado bajo los siguientes lineamientos técnicos:
 
@@ -12,7 +10,6 @@ El sistema ha sido diseñado bajo los siguientes lineamientos técnicos:
 * **Persistencia de Datos:** Implementación de lectura y escritura en archivos de texto plano con formato CSV (`peliculas.csv` y `series.csv`), garantizando la conservación de la información entre ejecuciones.
 * **Código Limpio y SOLID:** Aplicación del Principio de Responsabilidad Única (SRP) y encapsulamiento correcto para asegurar la mantenibilidad y escalabilidad del código.
 * **Pruebas Unitarias:** Inclusión de una suite de pruebas automatizadas utilizando el framework JUnit 5 para verificar la integridad de las clases de entidad.
-
 ## Estructura del Repositorio
 La organización de los directorios y archivos fuente es la siguiente:
 
@@ -26,6 +23,8 @@ UNIDAD_4/
 ├── peliculas.csv           # Base de datos de películas (Archivo plano)
 ├── series.csv              # Base de datos de series (Archivo plano)
 └── README.md               # Documentación técnica del proyecto
+<img width="683" height="733" alt="U4 drawio" src="https://github.com/user-attachments/assets/3cd59a0e-d48a-42ef-8a5a-0ab332f56cb4" />
+
 
 Requisitos Previos de Instalación
 Para replicar y ejecutar este proyecto en un entorno local, se requiere el siguiente software:
